@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @awpie
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me... Discord: Awppy#3664
-:)
+Visit my full list of projects!
+emberlearning.org
+[github](https://github.com/emberlearning/emberlearning.org)
+Linear Algebra Helper
+https://github.com/nebenardo/gausses-johnson/tree/main
 
 <!---
 awpie/awpie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
