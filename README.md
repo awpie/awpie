@@ -1,14 +1,14 @@
-- Hello, I'm Leo Zhang, an ECE student at Duke University.
-Visit my projects!
-emberlearning.org, AI Tutor and Teaching Assistant
+# Hello, I'm Leo Zhang, an ECE student at Duke University.
+## Visit my projects!
+- emberlearning.org, AI Tutor and Teaching Assistant
 [github](https://github.com/emberlearning/emberlearning.org)
-Functional 16bit CPU, built in Logisim
+- Functional 16bit CPU, built in Logisim
 [github](https://github.com/awpie/cs250)
-Modular Computer Vision Augmented Reality Platform
+- Modular Computer Vision Augmented Reality Platform
 [github](https://github.com/awpie/project-hud)
-AI Nutrition Assistant and Profiler
+- AI Nutrition Assistant and Profiler
 [github](https://github.com/awpie/nutrAI)
-Linear Algebra Helper
+- Linear Algebra Helper
 [github](https://github.com/nebenardo/gausses-johnson/tree/main)
 
 <!---
